@@ -114,7 +114,7 @@ END$$
 DELIMITER ;
 
 
-CALL AddStudent('Mark', 'Twain', 'mark.twain@example.com', '1998-03-25', 'Male', '101 River St');
+CALL AddStudent('Rahul', 'Kumar', 'rahulkumar35236@gmail.com', '2005-03-25', 'Male', '250 new St');
 
 
 DELIMITER $$
@@ -196,7 +196,7 @@ END$$
 DELIMITER ;
 
 
-CALL UpdateStudent(1, 'John', 'Doe', 'john.doe@example.com', '2000-05-15', 'Male', '789 Oak St');
+CALL UpdateStudent('karthik', 'kumar', 'karthik12345@gmail.com', '2000-05-15', 'Male', '25 new St');
 
 
 
