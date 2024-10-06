@@ -1,6 +1,6 @@
 CREATE DATABASE sqlproject;
 
-use sqlproject;
+USE sqlproject;
 
 CREATE TABLE students (
     student_id INT PRIMARY KEY AUTO_INCREMENT,
